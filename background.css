@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(to right, #0d00ff, #fb00ff);
+}
+
+h1 {
+    letter-spacing: 5px;
+    text-align: center;
+    width: 100%;
+    
+}
+
+h2, h3 {
+    text-align: center;
+}
